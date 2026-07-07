@@ -2,7 +2,7 @@
 
 An interactive, single-file HTML dashboard built for executive-level reporting on US retail performance
 
-**🔗 Live Dashboard: (https://mohim-khan.github.io/superstore-executive-dashboard/Superstore_Dashboard.html)
+🔗 Live Dashboard: (https://mohim-khan.github.io/superstore-executive-dashboard/Superstore_Dashboard.html)
 
 ## What it covers
 
@@ -22,10 +22,6 @@ During analysis, 11 order lines were found with anomalous $50,000 sales values �
 - [Chart.js](https://www.chartjs.org/) for all data visualizations, loaded via CDN
 - Vanilla JavaScript for filtering, aggregation, and dynamic insight generation
 - No external API calls — the full dataset is embedded client-side
-
-## Running locally
-
-Just download `Superstore_Dashboard.html` and open it in any modern browser. No installation required.
 
 ## Data source
 
